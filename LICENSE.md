@@ -23,8 +23,8 @@ This Distro License File only provides a summary of the terms applicable to the 
 The MIT License (MIT)
 =====================
 
-© 2022 100の人
-Copyright (c) 2020-2021 Merlin and UdonSharp Contributors for /Assets/UdonSharp and Assets/SerializedUdonPrograms folders
+© 2023 バーチャルライフマガジン  
+Copyright (c) 2020-2021 Merlin and UdonSharp Contributors for /Assets/UdonSharp and Assets/SerializedUdonPrograms folders  
 Copyright (c) 2022-Present VRChat Inc. for Assets/UdonSharp and /Assets/SerializedUdonPrograms folders
 
 Permission is hereby granted, free of charge, to any person
