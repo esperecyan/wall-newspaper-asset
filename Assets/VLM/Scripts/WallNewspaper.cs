@@ -55,7 +55,7 @@ namespace VLM.WallNewspaper
 
         private void Start()
         {
-            Debug.Log("バーチャルライフマガジン壁新聞 v2.1.0");
+            Debug.Log("バーチャルライフマガジン壁新聞 v2.2.0");
 
             this.imageDownloader = new VRCImageDownloader();
             this.imageDownloader.DownloadImage(this.url, this.material, this.GetComponent<UdonBehaviour>());
